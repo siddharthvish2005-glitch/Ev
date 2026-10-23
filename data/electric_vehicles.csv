@@ -1,0 +1,21 @@
+Year,Manufacturer,Model,Vehicle_Type,Units_Sold,Range_km,Battery_kWh,Average_Price_INR,Charging_Hours
+2022,Tata Motors,Nexon EV,SUV,1200,312,30.2,1450000,8.5
+2022,MG Motor,ZS EV,SUV,420,461,50.3,2390000,9.0
+2022,Mahindra,eVerito,Sedan,110,140,21.2,1000000,8.0
+2022,Ola Electric,S1 Pro,Two-wheeler,900,181,4.0,140000,6.5
+2022,Ather Energy,450X,Two-wheeler,650,146,3.7,145000,5.5
+2023,Tata Motors,Nexon EV,SUV,1800,325,30.2,1490000,8.0
+2023,MG Motor,ZS EV,SUV,600,461,50.3,2450000,9.0
+2023,Mahindra,XUV400,SUV,380,456,39.4,1590000,6.5
+2023,Ola Electric,S1 Pro,Two-wheeler,1400,195,4.0,147000,6.0
+2023,Ather Energy,450X,Two-wheeler,900,150,3.7,150000,5.5
+2024,Tata Motors,Nexon EV,SUV,2300,325,40.5,1590000,7.5
+2024,MG Motor,ZS EV,SUV,780,461,50.3,2490000,9.0
+2024,Mahindra,XUV400,SUV,650,456,39.4,1690000,6.5
+2024,Ola Electric,S1 Pro,Two-wheeler,2100,195,4.0,150000,6.0
+2024,Ather Energy,450X,Two-wheeler,1300,150,3.7,155000,5.0
+2025,Tata Motors,Nexon EV,SUV,2700,325,40.5,1650000,7.5
+2025,MG Motor,ZS EV,SUV,950,461,50.3,2550000,9.0
+2025,Mahindra,XUV400,SUV,900,456,39.4,1750000,6.5
+2025,Ola Electric,S1 Pro,Two-wheeler,2600,195,4.0,155000,6.0
+2025,Ather Energy,450X,Two-wheeler,1700,150,3.7,160000,5.0
